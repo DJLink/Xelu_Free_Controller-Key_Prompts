@@ -1,3 +1,12 @@
+Added this repo as a convinient place to download this pack individual files
+
+All credit to original author, follow following link
+
+https://thoseawesomeguys.com/prompts/
+
+_____________________________________
+
+
 Hey there!
 
 Hope you make good use of this pack. You can use all these assets in any project you want to (be it commercial or not).All of the assets are in the public domain under Creative Commons 0 (CC0)
