@@ -1,6 +1,6 @@
 Added this repo as a convinient place to download this pack individual files
 
-All credit to original author, follow following link
+All credit to original author, follow link for zip download
 
 https://thoseawesomeguys.com/prompts/
 
